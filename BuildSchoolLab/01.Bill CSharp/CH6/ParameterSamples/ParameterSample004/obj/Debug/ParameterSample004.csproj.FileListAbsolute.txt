@@ -1,0 +1,12 @@
+C:\CUST_Samples\6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.exe.config
+C:\CUST_Samples\6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.exe
+C:\CUST_Samples\6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.pdb
+C:\CUST_Samples\6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.exe
+C:\CUST_Samples\6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\bin\Debug\ParameterSample004.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample004\obj\Debug\ParameterSample004.pdb

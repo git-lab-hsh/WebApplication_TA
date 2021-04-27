@@ -1,0 +1,5 @@
+C:\CUST_Samples\6\DLLSamples\MyLibrary\bin\Debug\MyLibrary.dll
+C:\CUST_Samples\6\DLLSamples\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\CUST_Samples\6\DLLSamples\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\DLLSamples\MyLibrary\obj\Debug\MyLibrary.dll
+C:\CUST_Samples\6\DLLSamples\MyLibrary\obj\Debug\MyLibrary.pdb

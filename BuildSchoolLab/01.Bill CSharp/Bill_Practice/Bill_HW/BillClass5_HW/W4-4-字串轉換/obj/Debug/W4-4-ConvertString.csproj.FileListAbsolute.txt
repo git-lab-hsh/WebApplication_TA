@@ -1,0 +1,6 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\bin\Debug\W4-4-字串轉換.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\bin\Debug\W4-4-字串轉換.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\bin\Debug\W4-4-字串轉換.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\obj\Debug\W4-4-ConvertString.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\obj\Debug\W4-4-字串轉換.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-字串轉換\obj\Debug\W4-4-字串轉換.pdb

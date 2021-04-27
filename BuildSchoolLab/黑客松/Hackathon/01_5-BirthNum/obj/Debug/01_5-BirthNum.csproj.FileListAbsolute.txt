@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\bin\Debug\01_5-BirthNum.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\bin\Debug\01_5-BirthNum.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\bin\Debug\01_5-BirthNum.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\01_5-BirthNum.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\_01_5_BirthNum.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\_01_5_BirthNum.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\01_5-BirthNum.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\01_5-BirthNum.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\01_5-BirthNum.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_5-BirthNum\obj\Debug\01_5-BirthNum.pdb

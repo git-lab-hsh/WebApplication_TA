@@ -1,0 +1,6 @@
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.exe.config
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.exe
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.pdb
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.exe
+C:\CUST_Samples\6\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\bin\Debug\Q1_LoopsWords.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\bin\Debug\Q1_LoopsWords.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\bin\Debug\Q1_LoopsWords.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\obj\Debug\W1-1-LoopsWords.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\obj\Debug\W1-1-LoopsWords.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\obj\Debug\Q1_LoopsWords.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q1_LoopsWords\obj\Debug\Q1_LoopsWords.pdb

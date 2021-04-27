@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe.config
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.pdb
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\bin\Debug\AllClassSamples002.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\bin\Debug\AllClassSamples002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\bin\Debug\AllClassSamples002.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\obj\Debug\AllClassSamples002.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\obj\Debug\AllClassSamples002.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\obj\Debug\AllClassSamples002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\AllClassSamples001\AllClassSamples002\obj\Debug\AllClassSamples002.pdb

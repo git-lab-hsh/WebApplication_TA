@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\bin\Debug\DelegateSamples002.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\bin\Debug\DelegateSamples002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\bin\Debug\DelegateSamples002.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\obj\Debug\DelegateSamples002.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\obj\Debug\DelegateSamples002.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\obj\Debug\DelegateSamples002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\DelegateSamples001\DelegateSamples002\obj\Debug\DelegateSamples002.pdb

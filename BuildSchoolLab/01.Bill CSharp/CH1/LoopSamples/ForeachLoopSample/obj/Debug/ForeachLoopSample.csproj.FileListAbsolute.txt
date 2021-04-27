@@ -1,0 +1,16 @@
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.exe.config
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.exe
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.pdb
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.exe
+C:\CUST_Samples\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.pdb
+C:\Chu2018\Samples\CH1\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.exe.config
+C:\Chu2018\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.exe
+C:\Chu2018\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.exe.config
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\bin\Debug\ForeachLoopSample.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\ForeachLoopSample\obj\Debug\ForeachLoopSample.pdb

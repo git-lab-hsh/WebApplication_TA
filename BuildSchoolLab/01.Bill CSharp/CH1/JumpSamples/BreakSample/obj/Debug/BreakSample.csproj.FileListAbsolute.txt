@@ -1,0 +1,25 @@
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojResolveAssemblyReference.cache
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+c:\users\bill_\documents\visual studio 2015\Projects\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+C:\Chu2018\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojResolveAssemblyReference.cache
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojAssemblyReference.cache
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.csproj.CoreCompileInputs.cache
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+C:\BuildSchool\北科大\ntut2019\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojAssemblyReference.cache
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+C:\BuildSchool\北科大\ntut2020\Samples\CH1\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb

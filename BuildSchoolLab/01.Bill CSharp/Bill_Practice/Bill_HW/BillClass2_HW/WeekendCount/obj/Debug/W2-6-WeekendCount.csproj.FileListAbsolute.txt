@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\bin\Debug\WeekendCount.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\bin\Debug\WeekendCount.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\bin\Debug\WeekendCount.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\W2-6-WeekendCount.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\WeekendCount.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\WeekendCount.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\W2-6-WeekendCount.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\W2-6-WeekendCount.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\WeekendCount.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\WeekendCount\obj\Debug\WeekendCount.pdb

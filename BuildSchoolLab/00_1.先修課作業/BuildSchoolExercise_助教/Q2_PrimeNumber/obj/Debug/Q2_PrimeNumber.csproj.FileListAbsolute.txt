@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe.config
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.pdb
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.pdb

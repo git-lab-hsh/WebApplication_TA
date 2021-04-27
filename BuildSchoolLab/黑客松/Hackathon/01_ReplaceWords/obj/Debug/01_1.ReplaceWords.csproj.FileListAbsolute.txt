@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\bin\Debug\01_ReplaceWords.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\bin\Debug\01_ReplaceWords.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\bin\Debug\01_ReplaceWords.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\obj\Debug\01_1.ReplaceWords.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\obj\Debug\01_1.ReplaceWords.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\obj\Debug\01_ReplaceWords.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_ReplaceWords\obj\Debug\01_ReplaceWords.pdb

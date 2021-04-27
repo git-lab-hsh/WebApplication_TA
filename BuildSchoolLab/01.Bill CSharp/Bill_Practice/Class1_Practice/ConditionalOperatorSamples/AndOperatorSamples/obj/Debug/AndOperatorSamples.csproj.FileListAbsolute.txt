@@ -1,0 +1,6 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\obj\Debug\AndOperatorSamples.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\bin\Debug\AndOperatorSamples.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\bin\Debug\AndOperatorSamples.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\bin\Debug\AndOperatorSamples.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\obj\Debug\AndOperatorSamples.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\ConditionalOperatorSamples\AndOperatorSamples\obj\Debug\AndOperatorSamples.pdb

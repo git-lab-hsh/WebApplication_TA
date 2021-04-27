@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\obj\Debug\W1-2-PrimeNumber.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\obj\Debug\W1-2-PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.pdb

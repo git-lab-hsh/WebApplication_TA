@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\bin\Debug\LinqSamples.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\bin\Debug\LinqSamples.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\bin\Debug\LinqSamples.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\obj\Debug\LinqSamples.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\obj\Debug\LinqSamples.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\obj\Debug\LinqSamples.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class3_Practice\LinqSample001\LinqSamples\obj\Debug\LinqSamples.pdb

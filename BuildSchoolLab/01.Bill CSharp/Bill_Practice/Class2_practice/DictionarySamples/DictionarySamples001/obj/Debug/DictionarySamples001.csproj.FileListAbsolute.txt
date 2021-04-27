@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\Chp2_practice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\bin\Debug\EnumSample001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\bin\Debug\EnumSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\bin\Debug\EnumSample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\obj\Debug\EnumSample001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\obj\Debug\EnumSample001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\obj\Debug\EnumSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EnumSamples\EnumSample001\obj\Debug\EnumSample001.pdb

@@ -1,0 +1,13 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\bin\Debug\JsonSample001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\bin\Debug\JsonSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\bin\Debug\JsonSample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.csproj.CopyComplete
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\JsonSample\JsonSample001\obj\Debug\JsonSample001.pdb

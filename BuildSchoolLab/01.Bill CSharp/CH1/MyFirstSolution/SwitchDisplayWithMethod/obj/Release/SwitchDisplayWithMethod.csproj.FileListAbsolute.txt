@@ -1,0 +1,7 @@
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\bin\Release\SwitchDisplayWithMethod.exe.config
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\bin\Release\SwitchDisplayWithMethod.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\bin\Release\SwitchDisplayWithMethod.pdb
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\obj\Release\SwitchDisplayWithMethod.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\obj\Release\SwitchDisplayWithMethod.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\obj\Release\SwitchDisplayWithMethod.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplayWithMethod\obj\Release\SwitchDisplayWithMethod.pdb

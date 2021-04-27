@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb

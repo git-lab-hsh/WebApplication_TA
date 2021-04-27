@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\bin\Debug\W4-5-TrainTicket.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\bin\Debug\W4-5-TrainTicket.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\bin\Debug\W4-5-TrainTicket.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4_5_TrainTicket.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4_5_TrainTicket.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4-5-TrainTicket.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4-5-TrainTicket.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4-5-TrainTicket.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4-5-TrainTicket.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-5-TrainTicket\obj\Debug\W4-5-TrainTicket.csprojAssemblyReference.cache

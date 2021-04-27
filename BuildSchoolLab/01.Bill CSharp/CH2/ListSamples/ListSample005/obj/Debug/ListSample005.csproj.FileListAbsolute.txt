@@ -1,0 +1,12 @@
+C:\CUST_Samples\2\ListSamples\ListSample005\bin\Debug\ListSample005.exe.config
+C:\CUST_Samples\2\ListSamples\ListSample005\bin\Debug\ListSample005.exe
+C:\CUST_Samples\2\ListSamples\ListSample005\bin\Debug\ListSample005.pdb
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.Form1.resources
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.Properties.Resources.resources
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.csproj.GenerateResource.Cache
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.exe
+C:\CUST_Samples\2\ListSamples\ListSample005\obj\Debug\ListSample005.pdb
+C:\Chu2018\Samples\CH2\ListSamples\ListSample005\bin\Debug\ListSample005.exe.config
+C:\Chu2018\Samples\CH2\ListSamples\ListSample005\obj\Debug\ListSample005.exe
+C:\Chu2018\Samples\CH2\ListSamples\ListSample005\obj\Debug\ListSample005.pdb

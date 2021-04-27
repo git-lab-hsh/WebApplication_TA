@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.pdb

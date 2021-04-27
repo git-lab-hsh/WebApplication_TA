@@ -1,0 +1,5 @@
+C:\CUST_Samples\6\DelegateSamples\DelegateSample003\bin\Debug\DelegateSample003.exe.config
+C:\CUST_Samples\6\DelegateSamples\DelegateSample003\bin\Debug\DelegateSample003.exe
+C:\CUST_Samples\6\DelegateSamples\DelegateSample003\bin\Debug\DelegateSample003.pdb
+C:\CUST_Samples\6\DelegateSamples\DelegateSample003\obj\Debug\DelegateSample003.exe
+C:\CUST_Samples\6\DelegateSamples\DelegateSample003\obj\Debug\DelegateSample003.pdb

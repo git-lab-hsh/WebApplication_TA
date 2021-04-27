@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\bin\Debug\Homework.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\bin\Debug\Homework.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\bin\Debug\Homework.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\obj\Debug\Homework.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Homework\obj\Debug\Homework.pdb

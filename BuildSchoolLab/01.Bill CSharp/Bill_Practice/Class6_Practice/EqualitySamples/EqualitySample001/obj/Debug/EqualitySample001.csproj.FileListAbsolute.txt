@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.pdb

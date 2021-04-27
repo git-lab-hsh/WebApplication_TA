@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\bin\Debug\Lab3_IfElse.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\bin\Debug\Lab3_IfElse.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\bin\Debug\Lab3_IfElse.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\obj\Debug\Lab3_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\obj\Debug\Lab3_IfElse.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\obj\Debug\Lab3_IfElse.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab3_IfElse\obj\Debug\Lab3_IfElse.csprojAssemblyReference.cache

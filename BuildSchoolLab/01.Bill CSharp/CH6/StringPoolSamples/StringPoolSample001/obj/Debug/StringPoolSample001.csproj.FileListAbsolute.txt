@@ -1,0 +1,13 @@
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.exe.config
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.exe
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.pdb
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.exe
+C:\CUST_Samples\6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.exe.config
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\bin\Debug\StringPoolSample001.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH6\StringPoolSamples\StringPoolSample001\obj\Debug\StringPoolSample001.pdb

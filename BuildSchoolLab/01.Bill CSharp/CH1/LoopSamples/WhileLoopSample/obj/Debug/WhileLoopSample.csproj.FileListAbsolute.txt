@@ -1,0 +1,13 @@
+C:\CUST_Samples\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\CUST_Samples\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\CUST_Samples\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\CUST_Samples\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\CUST_Samples\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH1\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.pdb

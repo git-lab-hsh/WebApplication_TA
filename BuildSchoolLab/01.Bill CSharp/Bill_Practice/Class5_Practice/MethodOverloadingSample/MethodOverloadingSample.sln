@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadingSample001", "MethodOverloadingSample001\MethodOverloadingSample001.csproj", "{A87E9055-2944-4DD1-87C9-EBA2E961FDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAllText", "ReadAllText\ReadAllText.csproj", "{4AE90A0F-8366-42C9-89CE-FCCF883A8B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87E9055-2944-4DD1-87C9-EBA2E961FDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87E9055-2944-4DD1-87C9-EBA2E961FDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87E9055-2944-4DD1-87C9-EBA2E961FDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87E9055-2944-4DD1-87C9-EBA2E961FDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE90A0F-8366-42C9-89CE-FCCF883A8B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE90A0F-8366-42C9-89CE-FCCF883A8B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE90A0F-8366-42C9-89CE-FCCF883A8B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE90A0F-8366-42C9-89CE-FCCF883A8B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA9C641-6CDB-4AA0-ADE6-504D0DF38D64}
+	EndGlobalSection
+EndGlobal

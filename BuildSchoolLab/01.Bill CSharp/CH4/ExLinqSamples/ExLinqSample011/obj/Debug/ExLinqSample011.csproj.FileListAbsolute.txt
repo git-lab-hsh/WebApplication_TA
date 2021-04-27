@@ -1,0 +1,12 @@
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.exe.config
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.exe
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.pdb
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.exe
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.pdb
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.exe.config
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.exe
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\bin\Debug\ExLinqSample011.pdb
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.csproj.CoreCompileInputs.cache
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.exe
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample011\obj\Debug\ExLinqSample011.pdb

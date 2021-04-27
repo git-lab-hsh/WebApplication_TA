@@ -1,0 +1,6 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\bin\Debug\ContinueSample.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\bin\Debug\ContinueSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\bin\Debug\ContinueSample.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\obj\Debug\ContinueSample.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\obj\Debug\ContinueSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\JumpSample\ContinueSample\obj\Debug\ContinueSample.pdb

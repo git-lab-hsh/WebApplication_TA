@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\bin\Debug\Lab7_ObjectDesign.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\bin\Debug\Lab7_ObjectDesign.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\bin\Debug\Lab7_ObjectDesign.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\obj\Debug\Lab7_ObjectDesign.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\obj\Debug\Lab7_ObjectDesign.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\obj\Debug\Lab7_ObjectDesign.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab7_ObjectDesign\obj\Debug\Lab7_ObjectDesign.pdb

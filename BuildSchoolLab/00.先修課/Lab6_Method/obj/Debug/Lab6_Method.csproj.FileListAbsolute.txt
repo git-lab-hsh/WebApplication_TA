@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\bin\Debug\Lab6_Method.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\bin\Debug\Lab6_Method.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\bin\Debug\Lab6_Method.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\obj\Debug\Lab6_Method.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\obj\Debug\Lab6_Method.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\obj\Debug\Lab6_Method.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab6_Method\obj\Debug\Lab6_Method.pdb

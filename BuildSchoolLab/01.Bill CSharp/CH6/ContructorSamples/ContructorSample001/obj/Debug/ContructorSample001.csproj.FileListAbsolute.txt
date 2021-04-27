@@ -1,0 +1,6 @@
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\bin\Debug\ContructorSample001.exe.config
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\obj\Debug\ContructorSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\bin\Debug\ContructorSample001.exe
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\bin\Debug\ContructorSample001.pdb
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\obj\Debug\ContructorSample001.exe
+C:\CUST_Samples\6\ContructorSamples\ContructorSample001\obj\Debug\ContructorSample001.pdb

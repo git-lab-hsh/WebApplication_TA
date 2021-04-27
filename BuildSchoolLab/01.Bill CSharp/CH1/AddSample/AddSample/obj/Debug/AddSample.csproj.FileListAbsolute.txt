@@ -1,0 +1,12 @@
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\bin\Debug\AddSample.exe.config
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\bin\Debug\AddSample.exe
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\bin\Debug\AddSample.pdb
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\obj\Debug\AddSample.csprojResolveAssemblyReference.cache
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\obj\Debug\AddSample.exe
+c:\users\bill_\documents\visual studio 2015\Projects\AddSample\AddSample\obj\Debug\AddSample.pdb
+C:\Chu2018\Samples\CH1\AddSample\AddSample\bin\Debug\AddSample.exe.config
+C:\Chu2018\Samples\CH1\AddSample\AddSample\obj\Debug\AddSample.exe
+C:\Chu2018\Samples\CH1\AddSample\AddSample\obj\Debug\AddSample.pdb
+C:\Chu2018\Samples\CH1\AddSample\AddSample\bin\Debug\AddSample.exe
+C:\Chu2018\Samples\CH1\AddSample\AddSample\bin\Debug\AddSample.pdb
+C:\Chu2018\Samples\CH1\AddSample\AddSample\obj\Debug\AddSample.csprojResolveAssemblyReference.cache

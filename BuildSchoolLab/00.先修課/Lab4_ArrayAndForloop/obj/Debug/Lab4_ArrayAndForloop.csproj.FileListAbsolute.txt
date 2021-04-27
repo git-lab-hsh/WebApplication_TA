@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\obj\Debug\Lab4_ArrayAndForloop.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\obj\Debug\Lab4_ArrayAndForloop.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\bin\Debug\Lab4_ArrayAndForloop.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\bin\Debug\Lab4_ArrayAndForloop.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\bin\Debug\Lab4_ArrayAndForloop.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\obj\Debug\Lab4_ArrayAndForloop.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab4_ArrayAndForloop\obj\Debug\Lab4_ArrayAndForloop.pdb

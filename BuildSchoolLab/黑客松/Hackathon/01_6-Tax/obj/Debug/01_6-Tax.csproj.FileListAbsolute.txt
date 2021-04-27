@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\bin\Debug\01_6-Tax.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\bin\Debug\01_6-Tax.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\bin\Debug\01_6-Tax.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\obj\Debug\01_6-Tax.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\obj\Debug\01_6-Tax.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\obj\Debug\01_6-Tax.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_6-Tax\obj\Debug\01_6-Tax.pdb

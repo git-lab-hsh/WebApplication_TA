@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\bin\Debug\ListSample006.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\bin\Debug\ListSample006.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\bin\Debug\ListSample006.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\ListSamples\ListSample006\obj\Debug\ListSample006.pdb

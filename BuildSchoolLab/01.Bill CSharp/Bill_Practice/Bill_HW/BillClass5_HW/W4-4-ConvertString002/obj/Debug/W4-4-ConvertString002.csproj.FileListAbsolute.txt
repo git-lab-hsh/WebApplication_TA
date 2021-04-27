@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\bin\Debug\W4-4-ConvertString002.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\bin\Debug\W4-4-ConvertString002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\bin\Debug\W4-4-ConvertString002.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\obj\Debug\W4-4-ConvertString002.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\obj\Debug\W4-4-ConvertString002.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\obj\Debug\W4-4-ConvertString002.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-4-ConvertString002\obj\Debug\W4-4-ConvertString002.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe.config
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.pdb
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\bin\Debug\Q3_StringReplace.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q3_StringReplace\obj\Debug\Q3_StringReplace.pdb

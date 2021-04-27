@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\bin\Debug\Lab2_Declare.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\bin\Debug\Lab2_Declare.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\bin\Debug\Lab2_Declare.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\obj\Debug\Lab2_Declare.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\obj\Debug\Lab2_Declare.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\obj\Debug\Lab2_Declare.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab2_Declare\obj\Debug\Lab2_Declare.csprojAssemblyReference.cache

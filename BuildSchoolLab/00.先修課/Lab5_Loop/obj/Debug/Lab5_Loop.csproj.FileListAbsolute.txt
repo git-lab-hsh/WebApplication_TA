@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\bin\Debug\Lab5_Loop.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\bin\Debug\Lab5_Loop.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\bin\Debug\Lab5_Loop.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\obj\Debug\Lab5_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\obj\Debug\Lab5_Loop.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\obj\Debug\Lab5_Loop.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab5_Loop\obj\Debug\Lab5_Loop.csprojAssemblyReference.cache

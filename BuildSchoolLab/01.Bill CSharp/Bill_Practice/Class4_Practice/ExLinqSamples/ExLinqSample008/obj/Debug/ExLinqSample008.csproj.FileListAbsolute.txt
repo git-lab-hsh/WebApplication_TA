@@ -1,0 +1,6 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\bin\Debug\ExLinqSample008.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\bin\Debug\ExLinqSample008.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\bin\Debug\ExLinqSample008.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\obj\Debug\ExLinqSample008.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\obj\Debug\ExLinqSample008.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class4_Practice\ExLinqSamples\ExLinqSample008\obj\Debug\ExLinqSample008.pdb

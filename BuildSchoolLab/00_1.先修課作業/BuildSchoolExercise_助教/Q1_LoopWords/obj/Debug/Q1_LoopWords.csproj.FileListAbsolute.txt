@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\bin\Debug\Q1_LoopWords.exe.config
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\bin\Debug\Q1_LoopWords.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\bin\Debug\Q1_LoopWords.pdb
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\obj\Debug\Q1_LoopWords.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\obj\Debug\Q1_LoopWords.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\obj\Debug\Q1_LoopWords.exe
+C:\Users\USER\Desktop\青山人才課程\C# 課程(含Code)\1_先修課程\BuildSchoolExercise\Q1_LoopWords\obj\Debug\Q1_LoopWords.pdb

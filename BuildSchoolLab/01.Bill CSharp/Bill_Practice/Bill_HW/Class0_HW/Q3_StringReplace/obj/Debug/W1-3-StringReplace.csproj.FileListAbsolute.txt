@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\bin\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\bin\Debug\Q3_StringReplace.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\obj\Debug\W1-3-StringReplace.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\obj\Debug\W1-3-StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\obj\Debug\Q3_StringReplace.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\Class0_HW\Q3_StringReplace\obj\Debug\Q3_StringReplace.pdb

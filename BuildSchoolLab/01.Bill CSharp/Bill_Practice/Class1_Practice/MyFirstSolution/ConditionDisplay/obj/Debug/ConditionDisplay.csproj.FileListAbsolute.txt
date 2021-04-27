@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.pdb

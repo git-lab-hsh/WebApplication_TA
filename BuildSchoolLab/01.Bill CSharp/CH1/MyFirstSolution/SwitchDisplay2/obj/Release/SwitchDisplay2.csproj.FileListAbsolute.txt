@@ -1,0 +1,7 @@
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\bin\Release\SwitchDisplay2.exe.config
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\bin\Release\SwitchDisplay2.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\bin\Release\SwitchDisplay2.pdb
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\obj\Release\SwitchDisplay2.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\obj\Release\SwitchDisplay2.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\obj\Release\SwitchDisplay2.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\SwitchDisplay2\obj\Release\SwitchDisplay2.pdb

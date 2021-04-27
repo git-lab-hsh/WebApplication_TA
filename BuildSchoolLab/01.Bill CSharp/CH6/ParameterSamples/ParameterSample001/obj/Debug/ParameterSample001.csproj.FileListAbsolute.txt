@@ -1,0 +1,13 @@
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.exe.config
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.exe
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.pdb
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.exe
+C:\CUST_Samples\6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\bin\Debug\ParameterSample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH6\ParameterSamples\ParameterSample001\obj\Debug\ParameterSample001.pdb

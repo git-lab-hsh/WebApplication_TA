@@ -1,0 +1,6 @@
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\bin\Debug\DelegateSample005.exe.config
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\bin\Debug\DelegateSample005.exe
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\bin\Debug\DelegateSample005.pdb
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\obj\Debug\DelegateSample005.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\obj\Debug\DelegateSample005.exe
+C:\CUST_Samples\6\DelegateSamples\DelegateSample005\obj\Debug\DelegateSample005.pdb

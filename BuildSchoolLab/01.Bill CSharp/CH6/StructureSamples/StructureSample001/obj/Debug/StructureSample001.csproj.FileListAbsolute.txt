@@ -1,0 +1,2 @@
+C:\CUST_Samples\6\StructureSamples\StructureSample001\bin\Debug\StructureSample001.exe.config
+C:\BuildSchool\中華\Chu2020\Samples\CH6\StructureSamples\StructureSample001\obj\Debug\StructureSample001.csprojAssemblyReference.cache

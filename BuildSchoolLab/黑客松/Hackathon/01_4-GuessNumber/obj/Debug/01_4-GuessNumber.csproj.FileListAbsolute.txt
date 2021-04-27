@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\bin\Debug\01_4-GuessNumber.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\bin\Debug\01_4-GuessNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\bin\Debug\01_4-GuessNumber.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\01_4-GuessNumber.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\_01_4_GuessNumber.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\_01_4_GuessNumber.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\01_4-GuessNumber.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\01_4-GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\01_4-GuessNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_4-GuessNumber\obj\Debug\01_4-GuessNumber.pdb

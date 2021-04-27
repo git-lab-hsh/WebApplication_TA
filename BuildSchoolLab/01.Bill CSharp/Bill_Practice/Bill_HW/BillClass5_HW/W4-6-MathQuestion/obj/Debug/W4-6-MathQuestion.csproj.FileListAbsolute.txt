@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\bin\Debug\W4-6-MathQuestion.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\bin\Debug\W4-6-MathQuestion.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\bin\Debug\W4-6-MathQuestion.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\obj\Debug\W4-6-MathQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\obj\Debug\W4-6-MathQuestion.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\obj\Debug\W4-6-MathQuestion.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-6-MathQuestion\obj\Debug\W4-6-MathQuestion.csprojAssemblyReference.cache

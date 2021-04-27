@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_HW\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.pdb

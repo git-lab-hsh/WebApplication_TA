@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\bin\Debug\W4-3-ParkingFee.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\bin\Debug\W4-3-ParkingFee.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\bin\Debug\W4-3-ParkingFee.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4-3-ParkingFee.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4_3_ParkingFee.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4_3_ParkingFee.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4-3-ParkingFee.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4-3-ParkingFee.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4-3-ParkingFee.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass5_HW\W4-3-ParkingFee\obj\Debug\W4-3-ParkingFee.pdb

@@ -1,0 +1,7 @@
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\bin\Debug\LinqHomework.exe.config
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\bin\Debug\LinqHomework.exe
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\bin\Debug\LinqHomework.pdb
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\obj\Debug\LinqHomework.csprojAssemblyReference.cache
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\obj\Debug\LinqHomework.csproj.CoreCompileInputs.cache
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\obj\Debug\LinqHomework.exe
+C:\Users\roh04\Desktop\2_Linq作業\LinqHomework_題目\LinqHomework\obj\Debug\LinqHomework.pdb

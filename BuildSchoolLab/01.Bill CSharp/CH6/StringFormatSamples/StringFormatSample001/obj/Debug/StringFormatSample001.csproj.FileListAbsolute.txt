@@ -1,0 +1,13 @@
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.exe.config
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.exe
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.pdb
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.exe
+C:\CUST_Samples\6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.pdb
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.exe.config
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.exe
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\bin\Debug\StringFormatSample001.pdb
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.csprojResolveAssemblyReference.cache
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.csproj.CoreCompileInputs.cache
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.exe
+C:\Chu2018\Samples\CH6\StringFormatSamples\StringFormatSample001\obj\Debug\StringFormatSample001.pdb

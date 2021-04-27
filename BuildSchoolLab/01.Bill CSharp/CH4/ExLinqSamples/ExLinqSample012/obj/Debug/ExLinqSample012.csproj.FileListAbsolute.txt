@@ -1,0 +1,11 @@
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.exe.config
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.exe
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.pdb
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample012\obj\Debug\ExLinqSample012.exe
+C:\CUST_Samples\4\ExLinqSamples\ExLinqSample012\obj\Debug\ExLinqSample012.pdb
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.exe.config
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.exe
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\bin\Debug\ExLinqSample012.pdb
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\obj\Debug\ExLinqSample012.csproj.CoreCompileInputs.cache
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\obj\Debug\ExLinqSample012.exe
+C:\Chu2019\Samples\CH4\ExLinqSamples\ExLinqSample012\obj\Debug\ExLinqSample012.pdb

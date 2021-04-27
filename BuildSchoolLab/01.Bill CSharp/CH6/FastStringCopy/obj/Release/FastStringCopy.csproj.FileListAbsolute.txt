@@ -1,0 +1,9 @@
+C:\DemoCode\ConsoleApp1\FastStringCopy\bin\Release\SourceFile.txt
+C:\DemoCode\ConsoleApp1\FastStringCopy\bin\Release\SourceFile2.txt
+C:\DemoCode\ConsoleApp1\FastStringCopy\bin\Release\FastStringCopy.exe.config
+C:\DemoCode\ConsoleApp1\FastStringCopy\bin\Release\FastStringCopy.exe
+C:\DemoCode\ConsoleApp1\FastStringCopy\bin\Release\FastStringCopy.pdb
+C:\DemoCode\ConsoleApp1\FastStringCopy\obj\Release\FastStringCopy.csprojAssemblyReference.cache
+C:\DemoCode\ConsoleApp1\FastStringCopy\obj\Release\FastStringCopy.csproj.CoreCompileInputs.cache
+C:\DemoCode\ConsoleApp1\FastStringCopy\obj\Release\FastStringCopy.exe
+C:\DemoCode\ConsoleApp1\FastStringCopy\obj\Release\FastStringCopy.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\bin\Debug\ReadAllText.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\bin\Debug\ReadAllText.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\bin\Debug\ReadAllText.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\obj\Debug\ReadAllText.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\obj\Debug\ReadAllText.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\obj\Debug\ReadAllText.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class5_Practice\MethodOverloadingSample\ReadAllText\obj\Debug\ReadAllText.csprojAssemblyReference.cache

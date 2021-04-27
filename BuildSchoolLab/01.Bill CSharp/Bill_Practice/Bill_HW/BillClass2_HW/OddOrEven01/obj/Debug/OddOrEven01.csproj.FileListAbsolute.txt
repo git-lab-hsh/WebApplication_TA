@@ -1,0 +1,14 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\bin\Debug\OddOrEven01.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass2_HW\OddOrEven01\obj\Debug\OddOrEven01.pdb

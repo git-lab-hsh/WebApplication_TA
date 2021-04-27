@@ -1,0 +1,6 @@
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\bin\Release\DoubleSample002.exe.config
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\bin\Release\DoubleSample002.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\bin\Release\DoubleSample002.pdb
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\obj\Release\DoubleSample002.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\obj\Release\DoubleSample002.exe
+C:\BuildSchool\台北\TPE2020\Samples\CH3\DoubleSamples\DoubleSample002\obj\Release\DoubleSample002.pdb

@@ -1,0 +1,6 @@
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\bin\Debug\AllClassSample001.exe.config
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\bin\Debug\AllClassSample001.exe
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\bin\Debug\AllClassSample001.pdb
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\obj\Debug\AllClassSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\obj\Debug\AllClassSample001.exe
+C:\CUST_Samples\6\AllClassSamples\AllClassSample001\obj\Debug\AllClassSample001.pdb

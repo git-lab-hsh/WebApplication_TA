@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\bin\Debug\LinqPractice_助教.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\bin\Debug\LinqPractice_助教.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\bin\Debug\LinqPractice_助教.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\obj\Debug\LinqPractice_助教.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\obj\Debug\LinqPractice_助教.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\obj\Debug\LinqPractice_助教.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class2_practice\LinqPractice_助教\LinqPractice_助教\obj\Debug\LinqPractice_助教.pdb

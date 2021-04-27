@@ -1,0 +1,16 @@
+C:\CUST_Samples\3\VarSample\VarSample\bin\Debug\VarSample.exe.config
+C:\Chu2018\Samples\CH3\VarSample\VarSample\bin\Debug\VarSample.exe.config
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\bin\Debug\VarSample.exe.config
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\bin\Debug\VarSample.exe
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\bin\Debug\VarSample.pdb
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\obj\Debug\VarSample.csprojAssemblyReference.cache
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\obj\Debug\VarSample.csproj.CoreCompileInputs.cache
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\obj\Debug\VarSample.exe
+C:\BuildSchool\北科大\ntut2019\Samples\CH3\VarSample\VarSample\obj\Debug\VarSample.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\bin\Debug\VarSample.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\bin\Debug\VarSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\bin\Debug\VarSample.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\obj\Debug\VarSample.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\obj\Debug\VarSample.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\obj\Debug\VarSample.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\CH3\VarSample\VarSample\obj\Debug\VarSample.pdb

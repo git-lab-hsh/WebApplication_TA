@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\bin\Debug\Lab1_HelloWorld.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\bin\Debug\Lab1_HelloWorld.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\bin\Debug\Lab1_HelloWorld.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\obj\Debug\Lab1_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\obj\Debug\Lab1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\obj\Debug\Lab1_HelloWorld.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\Lab1_HelloWorld\obj\Debug\Lab1_HelloWorld.pdb

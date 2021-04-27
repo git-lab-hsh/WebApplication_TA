@@ -1,0 +1,10 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\bin\Debug\01_2.Temperature.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\bin\Debug\01_2.Temperature.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\bin\Debug\01_2.Temperature.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\01_2.Temperature.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\_01_2.Temperature.Form1.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\_01_2.Temperature.Properties.Resources.resources
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\01_2.Temperature.csproj.GenerateResource.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\01_2.Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\01_2.Temperature.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\黑客松\Hackathon\01_2.Temperature\obj\Debug\01_2.Temperature.pdb

@@ -1,0 +1,14 @@
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe.config
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.pdb
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csprojAssemblyReference.cache
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\source\repos\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\bin\Debug\Q2_PrimeNumber.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\BuildSchoolExcercise\Q2_PrimeNumber\obj\Debug\Q2_PrimeNumber.pdb

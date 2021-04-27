@@ -1,0 +1,7 @@
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\bin\Release\ConditionDisplay.exe.config
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\bin\Release\ConditionDisplay.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\bin\Release\ConditionDisplay.pdb
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\obj\Release\ConditionDisplay.csprojAssemblyReference.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\obj\Release\ConditionDisplay.csproj.CoreCompileInputs.cache
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\obj\Release\ConditionDisplay.exe
+C:\BuildSchool\台北\TPE2020_winter\Samples\CH1\MyFirstSolution\ConditionDisplay\obj\Release\ConditionDisplay.pdb

@@ -1,0 +1,6 @@
+C:\CUST_Samples\6\EnumSamples\EnumSample001\bin\Debug\EnumSample001.exe.config
+C:\CUST_Samples\6\EnumSamples\EnumSample001\bin\Debug\EnumSample001.exe
+C:\CUST_Samples\6\EnumSamples\EnumSample001\bin\Debug\EnumSample001.pdb
+C:\CUST_Samples\6\EnumSamples\EnumSample001\obj\Debug\EnumSample001.csprojResolveAssemblyReference.cache
+C:\CUST_Samples\6\EnumSamples\EnumSample001\obj\Debug\EnumSample001.exe
+C:\CUST_Samples\6\EnumSamples\EnumSample001\obj\Debug\EnumSample001.pdb

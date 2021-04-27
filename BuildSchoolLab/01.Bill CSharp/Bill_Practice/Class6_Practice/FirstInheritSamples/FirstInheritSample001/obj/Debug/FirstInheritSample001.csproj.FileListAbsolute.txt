@@ -1,0 +1,7 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\bin\Debug\FirstInheritSample001.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.csprojAssemblyReference.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Class6_Practice\FirstInheritSamples\FirstInheritSample001\obj\Debug\FirstInheritSample001.pdb

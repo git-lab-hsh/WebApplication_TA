@@ -1,0 +1,6 @@
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\bin\Debug\W3-2-ReserveLoop02.exe.config
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\bin\Debug\W3-2-ReserveLoop02.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\bin\Debug\W3-2-ReserveLoop02.pdb
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\obj\Debug\W3-2-ReserveLoop02.csproj.CoreCompileInputs.cache
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\obj\Debug\W3-2-ReserveLoop02.exe
+C:\Users\Aphone\OneDrive\桌面\C#\BuildSchoolLab\01.Bill CSharp\Bill_Practice\Bill_HW\BillClass3_HW\W3-2-ReserveLoop02\obj\Debug\W3-2-ReserveLoop02.pdb
